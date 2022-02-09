@@ -56,15 +56,18 @@ my first experiences with programming!) or by adding some functionalities to my 
 <br />
 **Any contribution is highly appreciated!**
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have any suggestion that would make this project look and function better, please fork the repo and create a pull request.
+These are the steps you need to follow: 
 
+1. Fork the Project.
+2. Clone the forked repository to your device with **git clone**
+3. Create a branch: **git checkout -b your-new-branch-name**
+4. Make your changes and add them using **git add**
+5. Commit your changes using **git commit**
+6. Push to the Branch: **git push origin &lt;add-your-branch-name&gt;**
+7. Open a Pull Request
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+For this section, I tried to sum up a very well written explanation which you can find at https://github.com/firstcontributions/first-contributions/blob/master/README.md
 
 
 ## Contact
