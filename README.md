@@ -17,7 +17,7 @@ Then, I deployed it on Netlify.
 
 ## Installation
 You can run this application on your device very easily. Indeed, you just need the resources listed above. 
-If you need further instruction of how you can install Boostrap and Sass on your machine, you can look at the following websites: 
+If you need further instructions of how you can install Boostrap and Sass on your machine, you can look at the following websites: 
 
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/download/)
 * [Sass](https://sass-lang.com/install)
@@ -57,7 +57,7 @@ my first experiences with programming!) or by adding some functionalities to my 
 <br />
 **Any contribution is highly appreciated!**
 
-If you have any suggestion that would make this project look and function better, please fork the repo and create a pull request.
+If you have any suggestion that would make this project look and function better, please fork the repository and create a pull request.
 These are the steps you need to follow: 
 
 1. Fork the Project
