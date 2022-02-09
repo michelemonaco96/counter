@@ -1,4 +1,4 @@
-# A simple counter with Javascript
+# A simple counter
 I created a very simple counter, using JavaScript to handle interactions with users. You can increase the current count, decrease it 
 and reset it. This last option will require confirmation of the action, in case you clicked on it by mistake. 
 
