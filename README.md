@@ -17,31 +17,28 @@ For this project, I used the following languages and libraries:
 ## Getting Started
 
 ### Installation
+As I said before, this project doesn't rely on any external sources but Bootstrap and Sass. If you need further instruction of how you can install them
+on your device, you can look at the following resources: 
+* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/download/)
+* [Sass](https://sass-lang.com/install)
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+After that, you can easily clone the repository with the following command: 
+Open Git Bash.
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+* Change the current working directory to the location where you want the cloned directory
+* Type: $ git clone https://github.com/michelemonaco96/counter.git
+* Press enter to create your local clone. 
 
 
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
+
+
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+
+
+
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
