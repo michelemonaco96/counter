@@ -13,7 +13,7 @@ For this project, I used the following languages and libraries:
 * Sass
 * Bootstrap
 
-Then, I deployed in on Netlify.
+Then, I deployed it on Netlify.
 
 ## Installation
 You can run this application on your device very easily. Indeed, you just need the resources listed above. 
@@ -60,12 +60,12 @@ my first experiences with programming!) or by adding some functionalities to my 
 If you have any suggestion that would make this project look and function better, please fork the repo and create a pull request.
 These are the steps you need to follow: 
 
-1. Fork the Project.
+1. Fork the Project
 2. Clone the forked repository to your device with **git clone**
-3. Create a branch: **git checkout -b your-new-branch-name**
-4. Make your changes and add them to the branch using **git add**
-5. Commit your changes using **git commit**
-6. Push to the Branch: **git push origin &lt;add-your-branch-name&gt;**
+3. Create a branch with **git checkout -b your-new-branch-name**
+4. Make your changes and add them to the branch with **git add**
+5. Commit your changes with **git commit**
+6. Push to the Branch with **git push origin &lt;add-your-branch-name&gt;**
 7. Open a Pull Request
 
 
