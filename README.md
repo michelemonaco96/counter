@@ -2,6 +2,7 @@
 I created a very simple counter, using JavaScript to handle interactions with users. You can increase the current count, decrease it 
 and reset it. This last option will require confirmation of the action, in case you clicked on it by mistake. 
 
+Try it at: https://michelemonacocounter.netlify.app/!
 
 ## Built with
 For this project, I used the following languages and libraries: 
@@ -12,7 +13,7 @@ For this project, I used the following languages and libraries:
 * Sass
 * Bootstrap
 
-
+Then, I deployed in on Netlify.
 
 ## Installation
 You can run this application on your device very easily. Indeed, you just need the resources listed above. 
@@ -66,9 +67,6 @@ These are the steps you need to follow:
 5. Commit your changes using **git commit**
 6. Push to the Branch: **git push origin &lt;add-your-branch-name&gt;**
 7. Open a Pull Request
-
-## Contact
-Project Link: [https://github.com/michelemonaco96/counter](https://github.com/michelemonaco96/counter)
 
 
 ## Acknowledgments
