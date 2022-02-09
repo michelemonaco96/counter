@@ -31,11 +31,14 @@ Open Git Bash.
 
 
 ## Usage
+The usege of this application is very intuitive and simple. This image shows what you should see when opening it: 
+![starting-screen](img/counter.jpg)
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+As you can see, there are three buttons that you can click one. You can increase the counter pressing "+" or decrese it pressing "-". 
+I have created a button that allows you to reset the current count. When you click on it, you should see an alert asking you to confirm the action. 
+If you confirm, the current count will be set to "0", otherwise it will not change. 
 
-
-![reset-button](img/reset-button.jpg)
+![reset-button](img/reset_button.jpg)
 
 
 
