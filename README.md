@@ -9,7 +9,7 @@ For this project, I used the following languages and libraries:
 * JavaScript 
 * HTML
 * CSS
-* SASS
+* Sass
 * Bootstrap
 
 
@@ -30,14 +30,14 @@ After that, you can clone the repository with the following commands:
 
 
 ## Usage
-The usege of this application is very intuitive. This image shows what you should see when opening it: 
+The usage of this application is very intuitive. This image shows what you should see when opening it: 
 <br />
 
 ![starting-screen](img/counter.jpg)
 
 <br />
 
-As you can see, there are three buttons that you can click on. You can increase the counter pressing "+" or decrese it pressing "-". 
+As you can see, there are three buttons which you can click on. You can increase the counter pressing "+" or decrese it pressing "-". 
 I have created a button that allows you to reset the current count. When you click on it, you should see an alert asking you to confirm the action. 
 If you confirm, the current count will be set to "0", otherwise it will not change. 
 
@@ -51,7 +51,7 @@ If you confirm, the current count will be set to "0", otherwise it will not chan
 <!-- CONTRIBUTING -->
 ## Contributing
 
-I encourage you to contribute to this project, by suggesting for example some styles improvements, refactoring of my code (which may not be great, I am still at
+I encourage you to contribute to this project, by suggesting for example some style improvements, refactoring of my code (which may not be great, I am still at
 my first experiences with programming!) or by adding some functionalities to my counter, which is indeed very basic.
 <br />
 **Any contribution is highly appreciated!**
@@ -62,13 +62,10 @@ These are the steps you need to follow:
 1. Fork the Project.
 2. Clone the forked repository to your device with **git clone**
 3. Create a branch: **git checkout -b your-new-branch-name**
-4. Make your changes and add them using **git add**
+4. Make your changes and add them to the branch using **git add**
 5. Commit your changes using **git commit**
 6. Push to the Branch: **git push origin &lt;add-your-branch-name&gt;**
 7. Open a Pull Request
-
-For this section, I tried to sum up a very well written explanation which you can find at https://github.com/firstcontributions/first-contributions/blob/master/README.md
-
 
 ## Contact
 Project Link: [https://github.com/michelemonaco96/counter](https://github.com/michelemonaco96/counter)
@@ -76,8 +73,9 @@ Project Link: [https://github.com/michelemonaco96/counter](https://github.com/mi
 
 ## Acknowledgments
 
-For this project I looked up these website, which I think are very useful. 
+For this project I looked up these resources, which I think are very useful. 
 
+* [how-to-contribute]( https://github.com/firstcontributions/first-contributions/blob/master/README.md)
 * [W3Schools](https://www.w3schools.com/)
 * [JAVASCRIPT.INFO](https://javascript.info/events)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
