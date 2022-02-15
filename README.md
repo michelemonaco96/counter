@@ -1,7 +1,8 @@
-# A simple counter with Javascript
-I created a basic counter, using JavaScript to handle interaction with users. It gives you the possibility to increase the current count or decrease it. 
-It also gives you the possibility to reset the count, by clicking on "Clear". 
+# A simple counter
+I created a very simple counter, using JavaScript to handle interactions with users. You can increase the current count, decrease it 
+and reset it. This last option will require confirmation of the action, in case you clicked on it by mistake. 
 
+Try it at: https://michelemonacocounter.netlify.app/!
 
 ## Built with
 For this project, I used the following languages and libraries: 
@@ -9,94 +10,70 @@ For this project, I used the following languages and libraries:
 * JavaScript 
 * HTML
 * CSS
-* SASS
+* Sass
 * Bootstrap
 
+Then, I deployed it on Netlify.
 
+## Installation
+You can run this application on your device very easily. Indeed, you just need the resources listed above. 
+If you need further instructions of how you can install Boostrap and Sass on your machine, you can look at the following websites: 
 
-## Getting Started
-
-### Installation
-As I said before, this project doesn't rely on any external sources but Bootstrap and Sass. If you need further instruction of how you can install them
-on your device, you can look at the following resources: 
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/download/)
 * [Sass](https://sass-lang.com/install)
 
-After that, you can easily clone the repository with the following command: 
-Open Git Bash.
+After that, you can clone the repository with the following commands: 
 
+* Open Git Bash.
 * Change the current working directory to the location where you want the cloned directory
 * Type: $ git clone https://github.com/michelemonaco96/counter.git
 * Press enter to create your local clone. 
 
 
 ## Usage
-The usege of this application is very intuitive and simple. This image shows what you should see when opening it: 
+The usage of this application is very intuitive. This image shows what you should see when opening it: 
+<br />
+
 ![starting-screen](img/counter.jpg)
 
-As you can see, there are three buttons that you can click one. You can increase the counter pressing "+" or decrese it pressing "-". 
+<br />
+
+As you can see, there are three buttons which you can click on. You can increase the counter pressing "+" or decrese it pressing "-". 
 I have created a button that allows you to reset the current count. When you click on it, you should see an alert asking you to confirm the action. 
 If you confirm, the current count will be set to "0", otherwise it will not change. 
+
+<br />
 
 ![reset-button](img/reset_button.jpg)
 
 
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+I encourage you to contribute to this project, by suggesting for example some style improvements, refactoring of my code (which may not be great, I am still at
+my first experiences with programming!) or by adding some functionalities to my counter, which is indeed very basic.
+<br />
+**Any contribution is highly appreciated!**
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+If you have any suggestion that would make this project look and function better, please fork the repository and create a pull request.
+These are the steps you need to follow: 
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+2. Clone the forked repository to your device with **git clone**
+3. Create a branch with **git checkout -b your-new-branch-name**
+4. Make your changes and add them to the branch with **git add**
+5. Commit your changes with **git commit**
+6. Push to the Branch with **git push origin &lt;add-your-branch-name&gt;**
+7. Open a Pull Request
 
 
-
-## Contact
-
-Project Link: [https://github.com/michelemonaco96/counter](https://github.com/michelemonaco96/counter)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-For this project I looked up these website, which I think are very useful. 
+For this project I looked up these resources, which I think are very useful. 
 
+* [how-to-contribute]( https://github.com/firstcontributions/first-contributions/blob/master/README.md)
 * [W3Schools](https://www.w3schools.com/)
 * [JAVASCRIPT.INFO](https://javascript.info/events)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
